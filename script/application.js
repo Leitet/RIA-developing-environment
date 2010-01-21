@@ -1,5 +1,5 @@
 (function($){
-	var appname = 'Application',
+	var appname = 'HELP Application',
 	Singleton = {
 		init: function(){
 			$("h1").text("App initialized!");
